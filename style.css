@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;}
+section{
+    display: flex;
+}
+   
+h1{
+    font-size: 40px;
+    text-align: justify;}
+    span{color:rgb(59, 97, 221);}
+    
+.half-width{
+    width:60%;
+    padding:15px; 
+}
+.half-width img{
+    height: 500px;}
+.hypbatton{
+    text-decoration: none;
+    background-image: linear-gradient(orange,rgb(238, 105, 29));
+    padding: 8px;
+    border-radius: 20px;
+    color: azure;
+    text-align: center;
+    line-height: 20px;
+}
+.background{
+     background-image: url(images/7.png);
+   
+    }
+    .background{background-repeat: no-repeat;}
+.lower-pic{width: 100%;}
+.box{margin: 10px;
+    border: 1px solid white;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow:1px 2px 4px gray ;
+    border-radius: 20px;
+    background-color: white;
+    width: 400px;
+}
+.box:hover{ box-shadow: 6px 12px 10px white ;}
