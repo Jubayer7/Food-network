@@ -3,6 +3,24 @@ body{
 section{
     display: flex;
 }
+.nav-menu{color: orange;
+    height: 200px;
+    width: 1400px;
+    background-image: linear-gradient(rgb(127, 46, 233),rgb(12, 117, 238));
+}   
+   .nav-menu ul li{
+        list-style-type: none;
+        margin: 20px;
+        float: right;
+        
+        font-size: 20px;
+        text-align: right;
+   }
+   .head-align{ text-align: center;}
+
+   
+  
+
    
 h1{
     font-size: 40px;
